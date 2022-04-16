@@ -25,8 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bmcgaughan&theme=dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 <!---
 Bmcgaughan/Bmcgaughan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
