@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m @Bmcgaughan
 - 👀 I am a Full Stack developer from the NYC area
-- 🌱 I’m currently learning React, Node.js and Express
+- 🌱 I’m currently learning React Native
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
